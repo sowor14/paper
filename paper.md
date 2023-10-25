@@ -9,5 +9,7 @@ In this paper we study the effects of radiation derived from image diagnostics r
 
 Manuna et al. showed in previous work that the hypothesis presented could make sense...
 
+No modelling works has been done until now that reflect the type of reserach conducted in this project.
+
 # References
 refs.txt
