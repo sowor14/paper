@@ -16,7 +16,7 @@ No modelling works has been done until now that reflect the type of reserach con
 We simulate using LAMMPS software the impact of mild radiation in the DNA chains inside the cell. 
 
 # Methodology
-We did some experiments and compared the results with the simulations, using the latter to try and explain the mechanisms too. Then we compared them to the simulations done by Zoferin et al.
+We did some experiments and compared the results with the simulations, using the latter to try and explain the mechanisms too. Then we compared them to the simulations done by Zoferin.
 
 # References
 refs.txt
