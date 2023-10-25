@@ -19,10 +19,14 @@ We simulate using LAMMPS software the impact of mild radiation in the DNA chains
 We did some experiments and compared the results with the simulations, using the latter to try and explain the mechanisms too. Then we compared them to the simulations done by Zoferin. 
 
 # Results
-In this work we found out that the correlation between the mild radiation and thelong term consequences of other radiation is non conclusive. 
+Our results show a disperse correlation between irradiation and consequences, which the simulations do back up.
 
 # Figures
 Figures will be placed in their own section.
+
+# Conclusions
+In this work we found out that the correlation between the mild radiation and thelong term consequences of other radiation is non conclusive. 
+
 
 # References
 refs.txt
