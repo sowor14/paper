@@ -21,5 +21,8 @@ We did some experiments and compared the results with the simulations, using the
 # Results
 In this work we found out that the correlation between the mild radiation and thelong term consequences of other radiation is non conclusive. 
 
+# Figures
+Figures will be placed in their own section.
+
 # References
 refs.txt
