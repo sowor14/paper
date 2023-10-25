@@ -2,8 +2,8 @@
 Experiments on the impact of mild diagnostic radiation on different aged individuals through simulations
 
 # Author
-Roger Bellido-Peralta
 Bro Brotato-AbsoluteUnit
+Roger Bellido-Peralta
 
 # Abstract
 In this paper we study the effects of radiation derived from image diagnostics related to the cell...
