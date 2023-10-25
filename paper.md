@@ -1,8 +1,8 @@
 # Title
-Impact of mild diagnostic radiation on different aged individuals
+Experiments on the impact of mild diagnostic radiation on different aged individuals
 
 # Author
-Roger Bellido-Peralta
+Roger Bellido-Peralta and Sis SisonionBeast
 
 # Abstract
 In this paper we study the effects of radiation derived from image diagnostics related to the cell...
