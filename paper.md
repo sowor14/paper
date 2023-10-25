@@ -11,7 +11,8 @@ Manuna et al. showed in previous work that the hypothesis presented could make s
 
 No modelling works has been done until now that reflect the type of reserach conducted in this project.
 
-
+# Simulations
+We simulate using LAMMPS software the impact of mild radiation in the DNA chains inside the cell. 
 
 # References
 refs.txt
