@@ -18,5 +18,8 @@ We simulate using LAMMPS software the impact of mild radiation in the DNA chains
 # Methodology
 We did some experiments and compared the results with the simulations, using the latter to try and explain the mechanisms too. Then we compared them to the simulations done by Zoferin. 
 
+# Results
+In this work we found out that the correlation between the mild radiation and thelong term consequences of other radiation is non conclusive. 
+
 # References
 refs.txt
